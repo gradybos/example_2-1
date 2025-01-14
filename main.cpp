@@ -3,6 +3,7 @@
 #include "mbed.h"
 #include "arm_book_lib.h"
 
+//test
 //=====[Declaration and initialization of public global objects]===============
 
 DigitalIn enterButton(BUTTON1);
